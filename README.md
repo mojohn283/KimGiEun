@@ -1,2 +1,0 @@
-"# KimGiEun" 
-"# KimGiEun2" 
