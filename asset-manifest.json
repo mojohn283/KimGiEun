@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/KimGiEun/static/js/main.85e72289.js",
+    "main.js": "/KimGiEun/static/js/main.acfd503d.js",
     "static/js/787.5fbdbb90.chunk.js": "/KimGiEun/static/js/787.5fbdbb90.chunk.js",
     "index.html": "/KimGiEun/index.html",
-    "main.85e72289.js.map": "/KimGiEun/static/js/main.85e72289.js.map",
+    "main.acfd503d.js.map": "/KimGiEun/static/js/main.acfd503d.js.map",
     "787.5fbdbb90.chunk.js.map": "/KimGiEun/static/js/787.5fbdbb90.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.85e72289.js"
+    "static/js/main.acfd503d.js"
   ]
 }
